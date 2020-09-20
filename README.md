@@ -5,3 +5,5 @@
 ### This part was really neat. I don't remember variables in Solidworks but it was much harder if I recall correctly. It was neat to see all the different methods as well. The workflow feels like it will be faster when my Onhape skills match my Soldiworks skills. Overall it's going very well. 
 ## Fork 
 ### This part was cool to make. The only learning that I can notice is familiarizing myself with how Onsphape works. It's so similar to Solidworks that it's very easy to transition. I feel like I can make parts much faster or at least I will be able to. All of the shortcuts are super cool and helpful. 
+## Tire
+### I got even more comfertable with Onshape while making this part. It all felt easy and intuative. One of my favorite parts of the process was changing the color and material of the part. Over the summer I tried to do that in Solidworks and it went very badly, this looks a good deal easier. 
