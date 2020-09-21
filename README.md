@@ -10,7 +10,7 @@
 ## Wheel
 ### The wheel was a cool part. It was basic but really showed some of it's strengths. One thing I loved was not having to make one solid closed geometry like with Solidworks. That was really cool and really helped. The face-wide fillets were also cool but that is a feature in Solidworks (I think). I also prefer the constrain system, my only concern is that if somone who was doing very advanced things and the computer making so many assumptions hurts their porductivity, I doubt it though. 
 ## Axle, Collar, Bearings
-### Filler
+### This assignment was neat because it showed how fast Onshape is. The speed that these cars can be made is super impressive compared to Solidworks. Speed is not always the best metric though so I'm not sure which program I prefer. It is also of not how much faster I can get into onshape that Solidworks. I decided to put this to the test. I made a part in Onshape and Solidworks, a 20mm cube with a 10mm hole and 2mm fillets on all faces. Solidworks clocked in at exactly 2 minutes but an entire minute of that was loading. Onshape clocked in at 2 minutes and 20 seconds. A good deal slower but I also made lots of mistakes. I consistently forgot how different the workflow was, failed to utilize shortcuts, and accidentally drew a construction circle instead of the non-construction circle I needed. Overall, Onshape has the skills to beat Solidworks but I'm not there with my skillset. 
 ## Wheel and Axel
 ### Filler
 ## Caster Assembly
