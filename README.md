@@ -17,4 +17,5 @@
 ### Onshape is amazing. The mates finally started to click and it is so easy. What I also found amazing was how few mates are needed. In Solidworks it takes 2-3 mates to define a part, Onshape can do it in one. One final note, adding hardware felt much easier and more intuitive than Solidworks, I liked not having to go through one tree but instead a series of dropdowns. One thing I had difficulty with was getting the setscrew to work. I'm sure it's due to me being a total novice but it was the only part that really slowed me down. 
 ## Dowel Pins
 ### This was very cool. The configurations were so easy to implament and use. It makes you actually want to use them. For the frame I had the configuration control 2 dimensions and it worked perfectly. I had some minor hiccups mating everything but that's just me being new. All-in-all it was very easy and smooth. 
+[dowelpin.jpg](master/images)
 
