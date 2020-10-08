@@ -19,7 +19,9 @@
 ### This was very cool. The configurations were so easy to implament and use. It makes you actually want to use them. For the frame I had the configuration control 2 dimensions and it worked perfectly. I had some minor hiccups mating everything but that's just me being new. All-in-all it was very easy and smooth.  
 <img src="Images/dowelpin.JPG" width="600"/>
 <img src="Images/dowelpin2.JPG" width="600"/>
-## Onshape Challange
+
+## Dowel Pins
+
 ### This assignment was lots of fun and really showed me where my strengths in Onshape are. Making the cube and spinner was super fast and easy. The bracket was harder for two reasons, firstly I needed to figure out how make a thin feature. Secondly, I did not design around the thicken feature and what was a massive mistake, it really messed with me later down the line as many dimensions were off. The hardest part, I was trying to solve this problem from a Solidworks perspective where you can only define 1-2 degres of freedom per mate. Onshape lets you do more so I would overdefine parts and they would not fit. After I found the correct mate (cylindrical) it was very easy.
 <img src="Images/OnshapeChallange.JPG" width="600"/>
 
